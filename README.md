@@ -35,18 +35,4 @@ const table = await db.createTable(
 );
 ```
 
-- Run `node injest.js` and `node index.js`
-
-- project
-  - src
-    - main.py
-    - utils.py
-  - README.md
-
-project/
-|-- src/
-| |-- main.py
-| `-- utils.py
-|-- tests/
-|   `-- test_main.py
-`-- README.md
+- Run `node ingest.js` and `node index.js`
