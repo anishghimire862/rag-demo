@@ -1,0 +1,46 @@
+LuminSphere Customer Support Knowledge Base
+
+1. What is the LuminSphere?
+   - The LuminSphere is a smart lighting orb that adjusts light, sound, and scent to enhance your mood, focus, or relaxation.
+
+2. How do I install the app?
+   - Download the LuminSphere app from the App Store (iOS) or Google Play (Android) and sign in.
+
+3. Why won’t my device charge?
+   - Check the USB-C cable and port for debris; try a different cable or adapter if the issue persists.
+
+4. How do I switch between soundscapes?
+   - In the app, go to 'Soundscapes,' browse the library, and tap to select one.
+
+5. Can I use multiple LuminSpheres together?
+   - Yes, the app supports grouping up to 5 devices for synchronized control.
+
+6. What’s the weight and size of the LuminSphere?
+   - It weighs 1.2 lbs (0.54 kg) and measures 6 inches (15 cm) in diameter.
+
+7. How do I troubleshoot Wi-Fi disconnections?
+   - Restart your router, ensure a strong signal, and reconnect via the app.
+
+8. Is there a night mode?
+   - Yes, enable 'Night Mode' in the app for dim, warm light and soft sounds.
+
+9. Why does the diffuser make a buzzing sound?
+   - This may indicate low water or a dirty ultrasonic plate; refill or clean it.
+
+10. Can I customize the aromatherapy intensity?
+    - Yes, adjust the mist level in the app under 'Diffuser Settings.'
+
+11. How do I know when it’s fully charged?
+    - The base LED turns solid green when charging is complete.
+
+12. What happens if I lose the USB-C cable?
+    - Use any standard USB-C cable; replacements are also available on our website.
+
+13. Can kids use the LuminSphere safely?
+    - Yes, but keep the diffuser and oils out of reach to avoid ingestion or spills.
+
+14. How do I delete my app account?
+    - Go to 'Account Settings' in the app and select 'Delete Account'; contact support if needed.
+
+15. Why is the touch panel unresponsive?
+    - Wipe it with a dry cloth; if it persists, reset the device.

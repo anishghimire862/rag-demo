@@ -1,0 +1,21 @@
+{
+  "name": "customer-support-rag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "ingest": "node ingest.js",
+    "query": "node index.js"
+  },
+  "dependencies": {
+    "@lancedb/lancedb": "^0.13.0",
+    "@langchain/textsplitters": "^0.0.3",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.0.123",
+    "ollama": "^0.5.14",
+    "openai": "^4.89.0",
+    "pdf-parse": "^1.1.1",
+    "tesseract.js": "^5.1.0"
+  }
+}
