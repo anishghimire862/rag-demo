@@ -3,7 +3,7 @@
 Run the following commands
 
 - cp .env.example .env
-- node injest.js
+- node ingest.js
 - node index.js
 
 # What do I need to do to use a different model?
